@@ -4,3 +4,4 @@ The application has weather.js which works on clientside and when user enters a 
 this data is sent back to app.js which then uses forecast.js to generate the forecast using the DarkSky API which uses the latitude and longitude to generate the weather and sends it back to app.js which then sends this data back to the clientside which then displays the data to the user accordingly. 
 To run this application, you can download the files and go into the app.js directory and run "npm i" and "node app.js" in the directory to run the server on localhost:3000.
 
+

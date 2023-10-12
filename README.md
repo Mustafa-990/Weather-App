@@ -5,3 +5,4 @@ this data is sent back to app.js which then uses forecast.js to generate the for
 To run this application, you can download the files and go into the app.js directory and run "npm i" and "node app.js" in the directory to run the server on localhost:3000.
 
 
+![image](https://github.com/Mustafa-990/Weather-App/assets/98848760/e5e30a73-848a-45b6-baa1-ab529a385cd0)
